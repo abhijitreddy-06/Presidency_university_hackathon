@@ -1,0 +1,11 @@
+diet-recommendations	POST	200	json	1466	7.75s
+{"diabetesRisk":65,"heartDiseaseRisk":45,"kidneyDiseaseRisk":30,"liverDiseaseRisk":20,"age":45,"gender":"female"}
+content-length	1466
+content-type	application/json; charset=utf-8
+date	Thu, 17 Apr 2025 02:02:25 GMT
+etag	W/"5ba-qmd9LiT/7mw3jhZh44V9j9EJcMM"
+replit-cluster	worf
+x-powered-by	Express
+x-robots-tag	none, noindex, noarchive, nofollow, nositelinkssearchbox, noimageindex, none, noindex, noarchive, nofollow, nositelinkssearchbox, noimageindex
+Content-Type	application/json
+{"dietPlan":"The primary focus of this diet plan is to manage blood sugar levels, support heart health, and maintain kidney function. This involves a balance of macronutrients, rich in fiber, healthy fats, lean proteins, and low in processed sugars and high-sodium foods.","foodsToEat":["Whole grains","Leafy greens","Berries","Nuts and seeds","Fatty fish like salmon","Avocado","Olive oil","Legumes","Low-fat dairy or dairy alternatives","Lean poultry"],"foodsToAvoid":["Sugary snacks and drinks","Refined carbohydrates","Saturated and trans fats","High-sodium foods","Red and processed meats","Full-fat dairy","Alcohol","Processed foods"],"mealIdeas":{"breakfast":["Oatmeal topped with fresh berries and a sprinkle of chia seeds","Whole grain toast with avocado and a poached egg","Greek yogurt with sliced almonds and a handful of fresh spinach"],"lunch":["Grilled salmon salad with mixed greens, cherry tomatoes, and lemon vinaigrette","Quinoa bowl with black beans, roasted vegetables, and a spoonful of guacamole","Chickpea salad sandwich on whole grain bread with lettuce and tomato"],"dinner":["Baked chicken breast with steamed broccoli and quinoa","Stir-fry with tofu, bell peppers, and snow peas served over brown rice","Whole-wheat pasta with tomato sauce, spinach, and grilled turkey strips"],"snacks":["Sliced cucumber with hummus","Apple slices with a tablespoon of peanut butter","A small handful of mixed nuts","Carrot sticks with tzatziki sauce"]}}

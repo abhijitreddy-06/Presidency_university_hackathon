@@ -1,0 +1,57 @@
+Warning: Received NaN for the &#x60;value&#x60; attribute. If this is expected, cast the value to a string.
+    at input
+    at _c (https://b2b05521-e6c4-4c9d-a54a-6753169255ed-00-3atal9xbr0mal.worf.replit.dev/src/components/ui/input.tsx:20:11)
+    at https://b2b05521-e6c4-4c9d-a54a-6753169255ed-00-3atal9xbr0mal.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-TQG5UYZM.js?v=8223824d:52:11
+    at https://b2b05521-e6c4-4c9d-a54a-6753169255ed-00-3atal9xbr0mal.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-TQG5UYZM.js?v=8223824d:33:11
+    at https://b2b05521-e6c4-4c9d-a54a-6753169255ed-00-3atal9xbr0mal.worf.replit.dev/src/components/ui/form.tsx:129:9
+    at div
+    at https://b2b05521-e6c4-4c9d-a54a-6753169255ed-00-3atal9xbr0mal.worf.replit.dev/src/components/ui/form.tsx:71:6
+    at Controller (https://b2b05521-e6c4-4c9d-a54a-6753169255ed-00-3atal9xbr0mal.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-CXJMC5RA.js?v=8223824d:298:35)
+    at FormField (https://b2b05521-e6c4-4c9d-a54a-6753169255ed-00-3atal9xbr0mal.worf.replit.dev/src/components/ui/form.tsx:32:6)
+    at div
+    at div
+    at form
+    at FormProvider (https://b2b05521-e6c4-4c9d-a54a-6753169255ed-00-3atal9xbr0mal.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-CXJMC5RA.js?v=8223824d:102:11)
+    at div
+    at div
+    at PredictionForm (https://b2b05521-e6c4-4c9d-a54a-6753169255ed-00-3atal9xbr0mal.worf.replit.dev/src/components/prediction-form.tsx:36:42)
+    at div
+    at section
+    at Diabetes (https://b2b05521-e6c4-4c9d-a54a-6753169255ed-00-3atal9xbr0mal.worf.replit.dev/src/pages/diabetes.tsx:101:39)
+    at Route (https://b2b05521-e6c4-4c9d-a54a-6753169255ed-00-3atal9xbr0mal.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=8223824d:338:16)
+    at Switch (https://b2b05521-e6c4-4c9d-a54a-6753169255ed-00-3atal9xbr0mal.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=8223824d:394:17)
+    at Router
+    at main
+    at div
+    at QueryClientProvider (https://b2b05521-e6c4-4c9d-a54a-6753169255ed-00-3atal9xbr0mal.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@tanstack_react-query.js?v=8223824d:2875:3)
+    at App
+at input
+at _c (https://b2b05521-e6c4-4c9d-a54a-6753169255ed-00-3atal9xbr0mal.worf.replit.dev/src/components/ui/input.tsx:20:11)
+at https://b2b05521-e6c4-4c9d-a54a-6753169255ed-00-3atal9xbr0mal.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-TQG5UYZM.js?v=8223824d:52:11
+at https://b2b05521-e6c4-4c9d-a54a-6753169255ed-00-3atal9xbr0mal.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-TQG5UYZM.js?v=8223824d:33:11
+at https://b2b05521-e6c4-4c9d-a54a-6753169255ed-00-3atal9xbr0mal.worf.replit.dev/src/components/ui/form.tsx:129:9
+at div
+at https://b2b05521-e6c4-4c9d-a54a-6753169255ed-00-3atal9xbr0mal.worf.replit.dev/src/components/ui/form.tsx:71:6
+at Controller (https://b2b05521-e6c4-4c9d-a54a-6753169255ed-00-3atal9xbr0mal.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-CXJMC5RA.js?v=8223824d:298:35)
+at FormField (https://b2b05521-e6c4-4c9d-a54a-6753169255ed-00-3atal9xbr0mal.worf.replit.dev/src/components/ui/form.tsx:32:6)
+at div
+at div
+at form
+at FormProvider (https://b2b05521-e6c4-4c9d-a54a-6753169255ed-00-3atal9xbr0mal.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-CXJMC5RA.js?v=8223824d:102:11)
+at div
+at div
+at PredictionForm (https://b2b05521-e6c4-4c9d-a54a-6753169255ed-00-3atal9xbr0mal.worf.replit.dev/src/components/prediction-form.tsx:36:42)
+at div
+at section
+at Diabetes (https://b2b05521-e6c4-4c9d-a54a-6753169255ed-00-3atal9xbr0mal.worf.replit.dev/src/pages/diabetes.tsx:101:39)
+at Route (https://b2b05521-e6c4-4c9d-a54a-6753169255ed-00-3atal9xbr0mal.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=8223824d:338:16)
+at Switch (https://b2b05521-e6c4-4c9d-a54a-6753169255ed-00-3atal9xbr0mal.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=8223824d:394:17)
+at Router
+at main
+at div
+at QueryClientProvider (https://b2b05521-e6c4-4c9d-a54a-6753169255ed-00-3atal9xbr0mal.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@tanstack_react-query.js?v=8223824d:2875:3)
+at App
+at t.value (https://b2b05521-e6c4-4c9d-a54a-6753169255ed-00-3atal9xbr0mal.worf.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:17465)
+at new t (https://b2b05521-e6c4-4c9d-a54a-6753169255ed-00-3atal9xbr0mal.worf.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:12630)
+at t.value (https://b2b05521-e6c4-4c9d-a54a-6753169255ed-00-3atal9xbr0mal.worf.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:32766)
+at https://b2b05521-e6c4-4c9d-a54a-6753169255ed-00-3atal9xbr0mal.worf.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:34400

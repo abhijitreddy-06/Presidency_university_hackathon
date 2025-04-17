@@ -1,0 +1,162 @@
+Create a healthcare prediction website similar to https://csd-sugar-wise.vercel.app/ but expanded to include multiple disease prediction capabilities. The website should maintain the clean, professional aesthetic and user-friendly navigation of the reference site while adding new prediction modules.
+
+Website Structure & Navigation
+Build a responsive website with the following pages:
+
+Home: Overview of the platform with features and benefits
+
+Disease Prediction Hub: Central access point to all prediction tools
+
+Diabetes Prediction (similar to reference site)
+
+Heart Disease Prediction (new)
+
+Chronic Kidney Disease Prediction (new)
+
+Liver Disease Prediction (new)
+
+Diet Recommendations: Personalized nutrition advice based on health risks
+
+Exercise Plans: Customized physical activity recommendations
+
+About/Resources: Educational content about each disease
+
+Get Started: Simple onboarding process for new users
+
+UI Design Requirements
+Color Palette: Maintain the primary green (#1b5e20) and teal (#008080) with white backgrounds
+
+Typography: Use a modern sans-serif font family throughout the site
+
+Components:
+
+Interactive cards for each disease prediction module
+
+Clear, user-friendly forms with proper validation
+
+Prominent CTAs with gradient buttons (green to teal)
+
+Progress indicators for multi-step forms
+
+Results displayed in easy-to-understand formats with visual elements
+
+Prediction Modules Specifications
+1. Diabetes Prediction (maintain existing functionality)
+Keep all features from the reference site
+
+2. Heart Disease Prediction
+Required Inputs:
+
+Age
+
+Gender
+
+Cholesterol levels
+
+ECG results
+
+Chest pain type
+
+Max heart rate
+
+Blood pressure
+
+Fasting blood sugar
+
+Exercise-induced angina
+
+Output: Risk classification with confidence percentage
+
+3. Chronic Kidney Disease Prediction
+Required Inputs:
+
+Age
+
+Blood pressure
+
+Serum creatinine levels
+
+Albumin levels
+
+Blood sugar
+
+Hemoglobin
+
+Urea
+
+Sodium/Potassium levels
+
+Output: CKD risk assessment with severity indication
+
+4. Liver Disease Prediction
+Required Inputs:
+
+Age
+
+Gender
+
+Total bilirubin levels
+
+Direct bilirubin
+
+Alkaline phosphatase
+
+ALT and AST enzymes
+
+Total proteins
+
+Albumin and globulin ratio
+
+Output: Liver health status and risk factors
+
+Technical Implementation
+Frontend: Use React.js with Next.js for server-side rendering and optimal performance
+
+Styling: Implement responsive design with Tailwind CSS or similar framework
+
+Prediction Logic:
+
+Implement machine learning models for each disease (can use pre-trained models)
+
+For demonstration purposes, you can simulate the prediction logic
+
+Include option to connect to external APIs for prediction services
+
+Data Handling:
+
+Form validation for all user inputs
+
+Proper error handling with user-friendly messages
+
+Optional data saving with user consent
+
+Interactive Features
+Risk Visualization: Display prediction results with intuitive visualizations (charts, gauges)
+
+Recommendation Engine: Provide tailored recommendations based on prediction results
+
+Educational Content: Include information about risk factors and prevention strategies
+
+Export/Share Results: Allow users to download or share their results
+
+Responsive Design
+Ensure the website functions seamlessly across:
+
+Desktop browsers
+
+Tablets
+
+Mobile devices
+
+Implement adaptive layouts that reorganize content based on screen size
+
+Additional Requirements
+Accessibility: Ensure the website is accessible to users with disabilities
+
+Loading States: Include appropriate loading indicators for prediction calculations
+
+Error Handling: Graceful error handling for invalid inputs or service unavailability
+
+Privacy Notice: Include clear information about data usage and privacy
+
+The final product should maintain the professional, clean aesthetic of the reference site while expanding functionality to include the additional disease prediction capabilities. Focus on creating an intuitive user experience that makes complex medical predictions accessible to the average user.
